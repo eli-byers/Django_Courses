@@ -1,0 +1,8 @@
+constantly==15.1.0
+Django==1.10.5
+incremental==16.10.1
+PyYAML==3.12
+turtle==0.0.2
+Twisted==16.6.0
+virtualenv==15.1.0
+zope.interface==4.3.3
